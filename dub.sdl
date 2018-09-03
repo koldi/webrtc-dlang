@@ -1,0 +1,5 @@
+name "webrtc-dlang"
+description "Simple webrtc implementation in dlang"
+authors "Gyorgy Katona"
+copyright "Copyright © 2018, Gyorgy Katona"
+targetPath "bin"
