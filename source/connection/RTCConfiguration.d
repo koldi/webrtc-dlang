@@ -1,8 +1,7 @@
 module connection.configuration;
 
-// TODO implement them
-struct RTCIceServer {}
-struct RTCCertificate {}
+import connection.iceserver;
+import certificate.rtccertificate;
 
 // TODO do we need string enums??????
 
