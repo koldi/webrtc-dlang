@@ -1,4 +1,4 @@
-module certificate.rtccertificate;
+module connection.certificate.rtccertificate;
 
 // TODO
 alias RTCDtlsFingerprint int; 

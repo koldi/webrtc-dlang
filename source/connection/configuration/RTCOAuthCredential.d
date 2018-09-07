@@ -1,4 +1,4 @@
-module connection.oauth;
+module connection.configuration.oauth;
 
 /**
  *  Describe OAuth credential information

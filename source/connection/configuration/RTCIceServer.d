@@ -1,4 +1,4 @@
-module connection.iceserver;
+module connection.configuration.iceserver;
 
 /**
  * Credential type for TURN server.

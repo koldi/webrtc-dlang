@@ -1,4 +1,4 @@
-module connection.configuration;
+module connection.configuration.configuration;
 
 import connection.iceserver;
 import certificate.rtccertificate;
