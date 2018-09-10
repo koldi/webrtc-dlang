@@ -1,3 +1,5 @@
+module connection.states;
+
 /**
  * Show the actual state of signaling connection
  */
